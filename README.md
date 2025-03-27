@@ -5,7 +5,7 @@ On this platform, you'll find a diverse range of projects reflecting my interest
 Collaboration is key to my approach,so feel free to reach out if you're interested in partnering up on a project or if you have any questions about my work. Let's connect and create something amazing together!
 
 Happy coding! 🚀
-Casmir Orori,
+Casmir Maturi,
 
 <!---
 Casmir2001/Casmir2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
